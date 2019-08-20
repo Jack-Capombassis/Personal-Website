@@ -1,0 +1,31 @@
+.header {
+    height: 55px;
+    width: 100%;
+    background-color: navy;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}  
+
+li {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+
+.name {
+    font-weight: 900;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding-right: 100px;
+}
